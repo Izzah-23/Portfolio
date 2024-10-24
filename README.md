@@ -19,7 +19,7 @@ To view this project locally, follow these steps:
 Clone the Repository:
 bash
 Copy code
-git clone https://github.com/your-username/your-portfolio.git
+git clone(https://github.com/Izzah-23/Portfolio)
 cd your-portfolio
 Open index.html:
 
